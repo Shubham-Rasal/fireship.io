@@ -36,7 +36,7 @@ npm run dev
 git checkout -b my-fix
 # fix some code...
 
-git commit -m "fix: corrected a typo"
+git commit -m "fix: Fixed a typo"
 git push origin my-fix
 ```
 
